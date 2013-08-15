@@ -19,6 +19,24 @@
 		1873E67717BC784700BECDFC /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1873E67617BC784700BECDFC /* SearchViewController.m */; };
 		1873E67A17BC784700BECDFC /* SearchViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1873E67817BC784700BECDFC /* SearchViewController.xib */; };
 		1873E68217BCBAF700BECDFC /* SearchResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 1873E68117BCBAF700BECDFC /* SearchResult.m */; };
+		1873E69317BCC58400BECDFC /* BarTexture.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68417BCC58400BECDFC /* BarTexture.png */; };
+		1873E69417BCC58400BECDFC /* BarTexture@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68517BCC58400BECDFC /* BarTexture@2x.png */; };
+		1873E69517BCC58400BECDFC /* CloseButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68617BCC58400BECDFC /* CloseButton.png */; };
+		1873E69617BCC58400BECDFC /* CloseButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68717BCC58400BECDFC /* CloseButton@2x.png */; };
+		1873E69717BCC58400BECDFC /* DetailPlaceholder.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68817BCC58400BECDFC /* DetailPlaceholder.png */; };
+		1873E69817BCC58400BECDFC /* DetailPlaceholder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68917BCC58400BECDFC /* DetailPlaceholder@2x.png */; };
+		1873E69917BCC58400BECDFC /* LandscapeBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68A17BCC58400BECDFC /* LandscapeBackground.png */; };
+		1873E69A17BCC58400BECDFC /* LandscapeButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68B17BCC58400BECDFC /* LandscapeButton.png */; };
+		1873E69B17BCC58400BECDFC /* LandscapeButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68C17BCC58400BECDFC /* LandscapeButton@2x.png */; };
+		1873E69C17BCC58400BECDFC /* Placeholder.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68D17BCC58400BECDFC /* Placeholder.png */; };
+		1873E69D17BCC58400BECDFC /* Placeholder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68E17BCC58400BECDFC /* Placeholder@2x.png */; };
+		1873E69E17BCC58400BECDFC /* SelectedTableCellGradient.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E68F17BCC58400BECDFC /* SelectedTableCellGradient.png */; };
+		1873E69F17BCC58400BECDFC /* StoreButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E69017BCC58400BECDFC /* StoreButton.png */; };
+		1873E6A017BCC58400BECDFC /* StoreButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E69117BCC58400BECDFC /* StoreButton@2x.png */; };
+		1873E6A117BCC58400BECDFC /* TableCellGradient.png in Resources */ = {isa = PBXBuildFile; fileRef = 1873E69217BCC58400BECDFC /* TableCellGradient.png */; };
+		1873E6A317BCC60A00BECDFC /* SearchResultCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1873E6A217BCC60A00BECDFC /* SearchResultCell.xib */; };
+		1873E6A617BCCC8200BECDFC /* SearchResultCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1873E6A517BCCC8200BECDFC /* SearchResultCell.m */; };
+		18CA48BF17BD01410058024D /* NothingFoundCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18CA48BE17BD01410058024D /* NothingFoundCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +58,25 @@
 		1873E67917BC784700BECDFC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SearchViewController.xib; sourceTree = "<group>"; };
 		1873E68017BCBAF700BECDFC /* SearchResult.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchResult.h; sourceTree = "<group>"; };
 		1873E68117BCBAF700BECDFC /* SearchResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchResult.m; sourceTree = "<group>"; };
+		1873E68417BCC58400BECDFC /* BarTexture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BarTexture.png; sourceTree = "<group>"; };
+		1873E68517BCC58400BECDFC /* BarTexture@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BarTexture@2x.png"; sourceTree = "<group>"; };
+		1873E68617BCC58400BECDFC /* CloseButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CloseButton.png; sourceTree = "<group>"; };
+		1873E68717BCC58400BECDFC /* CloseButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CloseButton@2x.png"; sourceTree = "<group>"; };
+		1873E68817BCC58400BECDFC /* DetailPlaceholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DetailPlaceholder.png; sourceTree = "<group>"; };
+		1873E68917BCC58400BECDFC /* DetailPlaceholder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DetailPlaceholder@2x.png"; sourceTree = "<group>"; };
+		1873E68A17BCC58400BECDFC /* LandscapeBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LandscapeBackground.png; sourceTree = "<group>"; };
+		1873E68B17BCC58400BECDFC /* LandscapeButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LandscapeButton.png; sourceTree = "<group>"; };
+		1873E68C17BCC58400BECDFC /* LandscapeButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "LandscapeButton@2x.png"; sourceTree = "<group>"; };
+		1873E68D17BCC58400BECDFC /* Placeholder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Placeholder.png; sourceTree = "<group>"; };
+		1873E68E17BCC58400BECDFC /* Placeholder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Placeholder@2x.png"; sourceTree = "<group>"; };
+		1873E68F17BCC58400BECDFC /* SelectedTableCellGradient.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SelectedTableCellGradient.png; sourceTree = "<group>"; };
+		1873E69017BCC58400BECDFC /* StoreButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StoreButton.png; sourceTree = "<group>"; };
+		1873E69117BCC58400BECDFC /* StoreButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "StoreButton@2x.png"; sourceTree = "<group>"; };
+		1873E69217BCC58400BECDFC /* TableCellGradient.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TableCellGradient.png; sourceTree = "<group>"; };
+		1873E6A217BCC60A00BECDFC /* SearchResultCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SearchResultCell.xib; sourceTree = "<group>"; };
+		1873E6A417BCCC8200BECDFC /* SearchResultCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchResultCell.h; sourceTree = "<group>"; };
+		1873E6A517BCCC8200BECDFC /* SearchResultCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchResultCell.m; sourceTree = "<group>"; };
+		18CA48BE17BD01410058024D /* NothingFoundCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NothingFoundCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,13 +123,18 @@
 		1873E66317BC784600BECDFC /* StoreSearch */ = {
 			isa = PBXGroup;
 			children = (
+				18CA48BE17BD01410058024D /* NothingFoundCell.xib */,
 				1873E66C17BC784700BECDFC /* AppDelegate.h */,
 				1873E66D17BC784700BECDFC /* AppDelegate.m */,
 				1873E67517BC784700BECDFC /* SearchViewController.h */,
 				1873E67617BC784700BECDFC /* SearchViewController.m */,
+				1873E6A417BCCC8200BECDFC /* SearchResultCell.h */,
+				1873E6A517BCCC8200BECDFC /* SearchResultCell.m */,
+				1873E6A217BCC60A00BECDFC /* SearchResultCell.xib */,
 				1873E68017BCBAF700BECDFC /* SearchResult.h */,
 				1873E68117BCBAF700BECDFC /* SearchResult.m */,
 				1873E67817BC784700BECDFC /* SearchViewController.xib */,
+				1873E68317BCC58400BECDFC /* Images */,
 				1873E66417BC784600BECDFC /* Supporting Files */,
 			);
 			path = StoreSearch;
@@ -110,6 +152,28 @@
 				1873E67317BC784700BECDFC /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1873E68317BCC58400BECDFC /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				1873E68417BCC58400BECDFC /* BarTexture.png */,
+				1873E68517BCC58400BECDFC /* BarTexture@2x.png */,
+				1873E68617BCC58400BECDFC /* CloseButton.png */,
+				1873E68717BCC58400BECDFC /* CloseButton@2x.png */,
+				1873E68817BCC58400BECDFC /* DetailPlaceholder.png */,
+				1873E68917BCC58400BECDFC /* DetailPlaceholder@2x.png */,
+				1873E68A17BCC58400BECDFC /* LandscapeBackground.png */,
+				1873E68B17BCC58400BECDFC /* LandscapeButton.png */,
+				1873E68C17BCC58400BECDFC /* LandscapeButton@2x.png */,
+				1873E68D17BCC58400BECDFC /* Placeholder.png */,
+				1873E68E17BCC58400BECDFC /* Placeholder@2x.png */,
+				1873E68F17BCC58400BECDFC /* SelectedTableCellGradient.png */,
+				1873E69017BCC58400BECDFC /* StoreButton.png */,
+				1873E69117BCC58400BECDFC /* StoreButton@2x.png */,
+				1873E69217BCC58400BECDFC /* TableCellGradient.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -168,6 +232,23 @@
 				1873E67217BC784700BECDFC /* Default@2x.png in Resources */,
 				1873E67417BC784700BECDFC /* Default-568h@2x.png in Resources */,
 				1873E67A17BC784700BECDFC /* SearchViewController.xib in Resources */,
+				1873E69317BCC58400BECDFC /* BarTexture.png in Resources */,
+				1873E69417BCC58400BECDFC /* BarTexture@2x.png in Resources */,
+				1873E69517BCC58400BECDFC /* CloseButton.png in Resources */,
+				1873E69617BCC58400BECDFC /* CloseButton@2x.png in Resources */,
+				1873E69717BCC58400BECDFC /* DetailPlaceholder.png in Resources */,
+				1873E69817BCC58400BECDFC /* DetailPlaceholder@2x.png in Resources */,
+				1873E69917BCC58400BECDFC /* LandscapeBackground.png in Resources */,
+				1873E69A17BCC58400BECDFC /* LandscapeButton.png in Resources */,
+				1873E69B17BCC58400BECDFC /* LandscapeButton@2x.png in Resources */,
+				1873E69C17BCC58400BECDFC /* Placeholder.png in Resources */,
+				1873E69D17BCC58400BECDFC /* Placeholder@2x.png in Resources */,
+				1873E69E17BCC58400BECDFC /* SelectedTableCellGradient.png in Resources */,
+				1873E69F17BCC58400BECDFC /* StoreButton.png in Resources */,
+				1873E6A017BCC58400BECDFC /* StoreButton@2x.png in Resources */,
+				1873E6A117BCC58400BECDFC /* TableCellGradient.png in Resources */,
+				1873E6A317BCC60A00BECDFC /* SearchResultCell.xib in Resources */,
+				18CA48BF17BD01410058024D /* NothingFoundCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,6 +263,7 @@
 				1873E66E17BC784700BECDFC /* AppDelegate.m in Sources */,
 				1873E67717BC784700BECDFC /* SearchViewController.m in Sources */,
 				1873E68217BCBAF700BECDFC /* SearchResult.m in Sources */,
+				1873E6A617BCCC8200BECDFC /* SearchResultCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +388,7 @@
 				1873E67F17BC784700BECDFC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
